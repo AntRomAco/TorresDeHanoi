@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\bin\Debug\net6.0\Torres.exe
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\bin\Debug\net6.0\Torres.deps.json
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\bin\Debug\net6.0\Torres.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\bin\Debug\net6.0\Torres.dll
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\bin\Debug\net6.0\Torres.pdb
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.dll
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\refint\Torres.dll
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.pdb
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\Torres.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documentos\Programación\Tema 6\Torres\obj\Debug\net6.0\ref\Torres.dll
