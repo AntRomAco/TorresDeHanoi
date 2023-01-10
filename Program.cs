@@ -14,24 +14,20 @@ public class Torres
     public static void Mover(int ntorre, int inicio, int final, int[] torre1, int[] torre2, int[] torre3, int con)
     {
         int reserva;
-        if (inicio == 1)
+        switch (inicio)
         {
-            reserva = torre1[ntorre];
-            torre1[ntorre] = 0;
-            if (final == 2) { torre2[ntorre] = reserva; }
-            if (final == 3) { torre3[ntorre] = reserva; }
-        } if (inicio == 2)
-        {
-            reserva = torre2[ntorre];
-            torre2[ntorre] = 0;
-            if (final == 1) { torre1[ntorre] = reserva; }
-            if (final == 3) { torre3[ntorre] = reserva; }
-        } if (inicio == 3)
-        {
-            reserva = torre3[ntorre];
-            torre3[ntorre] = 0;
-            if (final == 1) { torre1[ntorre] = reserva; }
-            if (final == 2) { torre2[ntorre] = reserva; }
+            case 1: reserva = torre1[ntorre];
+                torre1[ntorre] = 0;
+                if (final == 2) { torre2[ntorre] = reserva; }
+                if (final == 3) { torre3[ntorre] = reserva; } break;
+            case 2: reserva = torre2[ntorre];
+                torre2[ntorre] = 0;
+                if (final == 1) { torre1[ntorre] = reserva; }
+                if (final == 3) { torre3[ntorre] = reserva; } break;
+            case 3: reserva = torre3[ntorre];
+                torre3[ntorre] = 0;
+                if (final == 2) { torre2[ntorre] = reserva; }
+                if (final == 1) { torre1[ntorre] = reserva; } break;
         } Escribir(con, torre1, torre2, torre3);
     }
     public static void Escribir(int con, int[] torre1, int[] torre2, int[] torre3)
